@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NicityTestProject</string>
+
+    <string name="news_recycler_view_item_news_picture_content_description">
+        Постер новостей</string>
+
+    <string name="fragment_detail_news_picture_content_description">
+        Постер новостей</string>
+    <string name="fragment_detail_liked_news_icon_content_description">
+        Иконка сохранения понравившихся новостей.</string>
+    <string name="fragment_detail_news_source_text">Источник: %s</string>
+
+    <string name="bottom_navigation_home_item_title">Домой</string>
+    <string name="bottom_navigation_liked_news_item_title">Нравятся</string>
+
+    <string name="feed_view_model_factory_illegal_state_exception_text">ViewModel не найден</string>
+
+    <string name="detail_view_model_factory_illegal_state_exception_text">
+        ViewModel не найден</string>
+
+    <string name="liked_news_view_model_factory_illegal_state_exception_text">
+        ViewModel не найден</string>
+</resources>

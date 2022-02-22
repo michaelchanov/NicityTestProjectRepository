@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NicityTestProject.iml" filepath="$PROJECT_DIR$/.idea/modules/NicityTestProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NicityTestProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NicityTestProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/NicityTestProject.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/NicityTestProject.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/NicityTestProject.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/NicityTestProject.domain.iml" />
+    </modules>
+  </component>
+</project>

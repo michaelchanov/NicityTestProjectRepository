@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="220dp"
+    android:layout_gravity="center"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:layout_marginHorizontal="@dimen/medium_margin"
+        android:layout_marginTop="@dimen/small_margin"
+        app:cardCornerRadius="@dimen/big_corner_radius">
+
+        <ImageView
+            android:id="@+id/ivNewsPicture"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:contentDescription="@string/news_recycler_view_item_news_picture_content_description"
+            android:scaleType="centerCrop" />
+
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/tvNewsTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/medium_margin"
+        android:layout_marginVertical="@dimen/medium_margin"
+        android:textColor="@color/black"
+        android:textSize="@dimen/medium_text_size"
+        android:textStyle="italic" />
+
+</LinearLayout>
