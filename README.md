@@ -17,7 +17,8 @@
 8. Glide
 9. RecyclerView (List adapter with DiffUtils)
 10. ViewBinding
-11. Swipe refresh layout (pull to refresh)
+11. StateFlow
+12. Swipe refresh layout (pull to refresh)
  
 ## Экраны приложения
 ### Главный экран:
